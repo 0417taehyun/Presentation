@@ -14,16 +14,16 @@
     <th> Place </th>
   </tr>
   <tr>
-    <td> <a href=""> 도커 (조금 있어 보이게) 이해하기 </a> </td>
-    <td> 2023. 05. 15 </td>
-    <td> Korean </td>
-    <td> <a href=""> Online </a> </td>
-  </tr>  
-  <tr>
-    <td> <a href=""> 비전공자가 이야기하는 개발자의 학습과 성장에 대한 개똥철학 </a> </td>
+    <td> <a href=""> [ 한국외대 Built IT 세미나 ] 비전공자 개발자의 학습과 성장: 스웨덴어 공부하다 개발자가 됐당근 </a> </td>
     <td> 2023. 05. 25 </td>
     <td> Korean </td>
     <td> Offline </td>
-  </tr>
+  </tr>  
+  <tr>
+    <td> <a href=""> [ 한국외대 GDSC 비정기 세션 ] 도커 (조금 있어 보이게) 이해하기 </a> </td>
+    <td> 2023. 05. 29 </td>
+    <td> Korean </td>
+    <td> <a href=""> Online </a> </td>
+  </tr>  
 
 </table>
