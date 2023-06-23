@@ -20,10 +20,10 @@
     <td> Offline </td>
   </tr>  
   <tr>
-    <td> <a href=""> [ 한국외대 GDSC 비정기 세션 ] 도커 (조금 있어 보이게) 이해하기 </a> </td>
-    <td> 2023. 05. 29 </td>
+    <td> <a href=""> [ 한국외대 2023 HUFSummer Hackathon 세션 ] 슬기로운 해커톤 생활 </a> </td>
+    <td> 2023. 06. 23 </td>
     <td> Korean </td>
-    <td> <a href=""> Online </a> </td>
+    <td> <a href=""> Offline </a> </td>
   </tr>  
 
 </table>
