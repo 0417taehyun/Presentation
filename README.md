@@ -24,6 +24,12 @@
     <td> 2023. 06. 23 </td>
     <td> Korean </td>
     <td> Offline </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td> <a href=""> [ Google I/O Extended 2023 Seoul ] 패키지 취약성 관리 with Go and deps.dev API </a> </td>
+    <td> 2023. 07. 29 </td>
+    <td> Korean </td>
+    <td> Offline </td>
+  </tr>    
 
 </table>
