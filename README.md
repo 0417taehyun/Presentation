@@ -26,7 +26,7 @@
     <td> Offline </td>
   </tr>
   <tr>
-    <td> <a href=""> [ Google I/O Extended 2023 Seoul ] 패키지 취약성 관리 with Go and deps.dev API </a> </td>
+    <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/07/29/%5B%20Google%20IO%20Extended%202023%20Seoul%20%5D%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EC%B7%A8%EC%95%BD%EC%84%B1%20%EA%B4%80%EB%A6%AC%20with%20Go%20and%20deps.dev%20API.pdf"> [ Google I/O Extended 2023 Seoul ] 패키지 취약성 관리 with Go and deps.dev API </a> </td>
     <td> 2023. 07. 29 </td>
     <td> Korean </td>
     <td> Offline </td>
