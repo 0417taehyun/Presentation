@@ -32,7 +32,7 @@
     <td> Offline </td>
   </tr>
   <tr>
-    <td> <a href=""> [ AUSG 7기 정규 빅챗(BigChat) ] 쌤(SAM)! 도와주세요! </a> </td>
+    <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/08/07/%5B%20AUSG%207%EA%B8%B0%20%EC%A0%95%EA%B7%9C%20%EB%B9%85%EC%B1%97(BigChat)%20%5D%20%EC%8C%A4(SAM)!%20%EB%8F%84%EC%99%80%EC%A3%BC%EC%84%B8%EC%9A%94!.pdf"> [ AUSG 7기 정규 빅챗(BigChat) ] 쌤(SAM)! 도와주세요! </a> </td>
     <td> 2023. 08. 07 </td>
     <td> Korean </td>
     <td> Offline </td>
