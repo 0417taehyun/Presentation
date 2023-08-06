@@ -30,6 +30,12 @@
     <td> 2023. 07. 29 </td>
     <td> Korean </td>
     <td> Offline </td>
+  </tr>
+  <tr>
+    <td> <a href=""> [ AUSG 7기 정규 빅챗(BigChat) ] 쌤(SAM)! 도와주세요! </a> </td>
+    <td> 2023. 08. 07 </td>
+    <td> Korean </td>
+    <td> Offline </td>
   </tr>    
 
 </table>
