@@ -36,6 +36,12 @@
     <td> 2023. 08. 07 </td>
     <td> Korean </td>
     <td> Offline </td>
-  </tr>    
+  </tr>
+  <tr>
+    <td> <a href=""> [ PyCon KR 2023 ] 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법 </a> </td>
+    <td> 2023. 08. 12 </td>
+    <td> Korean </td>
+    <td> Offline </td>
+  </tr>     
 
 </table>
