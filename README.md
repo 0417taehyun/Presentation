@@ -38,7 +38,7 @@
     <td> Offline </td>
   </tr>
   <tr>
-    <td> <a href=""> [ PyCon KR 2023 ] 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법 </a> </td>
+    <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/08/12/%5B%20PyCon%20KR%202023%20%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%B2%98%EC%9D%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%8F%99%EB%A3%8C%EC%99%80%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.pdf"> [ PyCon KR 2023 ] 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법 </a> </td>
     <td> 2023. 08. 12 </td>
     <td> Korean </td>
     <td> Offline </td>
