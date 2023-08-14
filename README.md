@@ -44,7 +44,7 @@
     <td> Offline </td>
   </tr>     
   <tr>
-    <td> <a href=""> [ INFCON 2023 ] 스웨덴어 공부하다 개발자가 됐습니다 </a> </td>
+    <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/08/15/%5B%20INFCON%202023%20%5D%20%EC%8A%A4%EC%9B%A8%EB%8D%B4%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8B%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4.pdf"> [ INFCON 2023 ] 스웨덴어 공부하다 개발자가 됐습니다 </a> </td>
     <td> 2023. 08. 15 </td>
     <td> Korean </td>
     <td> Offline </td>
