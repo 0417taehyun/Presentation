@@ -43,5 +43,11 @@
     <td> Korean </td>
     <td> Offline </td>
   </tr>     
+  <tr>
+    <td> <a href=""> [ INFCON 2023 ] 스웨덴어 공부하다 개발자가 됐습니다 </a> </td>
+    <td> 2023. 08. 15 </td>
+    <td> Korean </td>
+    <td> Offline </td>
+  </tr>  
 
 </table>
