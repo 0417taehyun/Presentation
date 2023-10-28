@@ -49,5 +49,11 @@
     <td> Korean </td>
     <td> Offline </td>
   </tr>  
+  <tr>
+    <td> <a href=""> [ AWS Community Day 2023 ] 쌤(SAM)! 도와주세요! </a> </td>
+    <td> 2023. 10. 28 </td>
+    <td> Korean </td>
+    <td> Offline </td>
+  </tr> 
 
 </table>
