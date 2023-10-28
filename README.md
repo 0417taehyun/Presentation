@@ -41,13 +41,13 @@
     <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/08/12/%5B%20PyCon%20KR%202023%20%5D%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%B2%98%EC%9D%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%8F%99%EB%A3%8C%EC%99%80%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.pdf"> [ PyCon KR 2023 ] 파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법 </a> </td>
     <td> 2023. 08. 12 </td>
     <td> Korean </td>
-    <td> Offline </td>
+    <td> <a href="https://youtu.be/RgMCqc-VPL4"> Offline </a> </td>
   </tr>     
   <tr>
     <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/08/15/%5B%20INFCON%202023%20%5D%20%EC%8A%A4%EC%9B%A8%EB%8D%B4%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8B%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4.pdf"> [ INFCON 2023 ] 스웨덴어 공부하다 개발자가 됐습니다 </a> </td>
     <td> 2023. 08. 15 </td>
     <td> Korean </td>
-    <td> Offline </td>
+    <td> <a href="https://youtu.be/KRHTVQ_imvA"> Offline </a> </td>
   </tr>  
   <tr>
     <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/10/28/%5B%20AWS%20Community%20Day%202023%20%5D%EC%8C%A4(SAM)!%20%EB%8F%84%EC%99%80%EC%A3%BC%EC%84%B8%EC%9A%94!.pdf"> [ AWS Community Day 2023 ] 쌤(SAM)! 도와주세요! </a> </td>
