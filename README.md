@@ -50,7 +50,7 @@
     <td> Offline </td>
   </tr>  
   <tr>
-    <td> <a href=""> [ AWS Community Day 2023 ] 쌤(SAM)! 도와주세요! </a> </td>
+    <td> <a href="https://github.com/0417taehyun/Presentation/blob/main/2023/10/28/%5B%20AWS%20Community%20Day%202023%20%5D%EC%8C%A4(SAM)!%20%EB%8F%84%EC%99%80%EC%A3%BC%EC%84%B8%EC%9A%94!.pdf"> [ AWS Community Day 2023 ] 쌤(SAM)! 도와주세요! </a> </td>
     <td> 2023. 10. 28 </td>
     <td> Korean </td>
     <td> Offline </td>
