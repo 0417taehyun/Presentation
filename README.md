@@ -2,7 +2,27 @@
 
 ## Table of Contents
 
+- [2024](#2024)
 - [2023](#2023)
+
+## 2024
+
+<table>
+  <tr>
+    <th> Title </th>
+    <th> Date </th>
+    <th> Language </th>
+    <th> Place </th>
+  </tr>
+  <tr>
+    <td> <a href=""> [ 파이 웹 심포지움 2024 ] FastAPI와 함께 하는 문서 우선 개발(Documentation-First Development, DFD) </a> </td>
+    <td> 2024. 03. 23 </td>
+    <td> Korean </td>
+    <td> Offline </td>
+  </tr>  
+
+</table>
+
 
 ## 2023
 
